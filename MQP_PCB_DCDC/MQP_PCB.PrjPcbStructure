@@ -1,0 +1,7 @@
+Record=TopLevelDocument|FileName=Connectors.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=DC-DC Converter.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=FCC Footprint Charge Controller.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=MCU.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=Power Monitor.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=Sensors.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=Voltage Regulator.SchDoc|SheetNumber=4
