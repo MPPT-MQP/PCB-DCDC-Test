@@ -1,0 +1,36 @@
+Altium Designer Pick and Place Locations
+C:\Users\temp\Documents\WPI\MQP\Github\MPPT_MQP_PCB_DCDC\MQP_PCB_DCDC\Project Outputs for MQP_PCB_DCDC_TestPrjPcb\Pick Place\Pick Place for PCB_DCDC_Test.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       26/11/24
+Time:       22:15
+Revision:   0a47ca451022c0bf28cf8627eec0379464eb11e0
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"GND2","575-4","TopLayer","KSTN-575-4","2875.000","2115.000","0","Banana Jack, Non-Insulated, 1-Pin THD, RoHS, Bulk"
+"GND","5011","TopLayer","KSTN-5011_V","1390.000","2125.000","0","Test Point, Black, Through Hole, RoHS, Bulk"
+"P1","22-28-4033","TopLayer","MOLX-22-28-4033_V","2460.000","1975.000","0","Male Header, Pitch 2.54 mm, 1 x 3 Position, Height 8.38 mm, Tail Length 3.18 mm, RoHS, Bulk"
+"T2","TestPoint","TopLayer","Test_IN","1885.000","810.000","90",""
+"T4","TestPoint","TopLayer","Test_IN","1635.000","505.000","270",""
+"T1","TestPoint","TopLayer","Test_IN","1115.000","1395.000","270",""
+"L1","120uH","TopLayer","IND_2300HT-V_56_42","2435.000","1072.000","180","120uH
+2300HT-121-V-RC"
+"U1","LM5106MM/NOPB","TopLayer","DGS0010A_N","1760.000","1150.000","270","100V Half-Bridge Gate Driver with Programmable Dead-Time, 10-pin MSOP, Pb-Free"
+"VCC","575-4","TopLayer","KSTN-575-4","1955.000","2140.000","0","Banana Jack, Non-Insulated, 1-Pin THD, RoHS, Bulk"
+"VCC","5010","TopLayer","KSTN-5010_V","1640.000","2130.000","0","Test Point, Red, Through Hole, RoHS, Bulk"
+"R3","0R3J","TopLayer","RESC0603(1608)_L","1630.000","580.000","270","Jumper 0603 (1608 Metric)"
+"R2","0R3J","TopLayer","RESC0603(1608)_L","1669.000","1040.000","270","Jumper 0603 (1608 Metric)"
+"R1","0R3J","TopLayer","RESC0603(1608)_L","1130.000","1295.000","90","Jumper 0603 (1608 Metric)"
+"Q2","IPB032N10N5ATMA1","TopLayer","FP-PG-TO263-7-MFG","1377.000","852.937","0","MOSFET N-CH 100V 166A TO263-7"
+"Q1","IPB032N10N5ATMA1","TopLayer","FP-PG-TO263-7-MFG","1377.000","1529.118","0","MOSFET N-CH 100V 166A TO263-7"
+"VOUT","691137710002","TopLayer","691137710002","3380.157","1115.000","90",""
+"VIN","691137710002","TopLayer","691137710002","279.842","1055.000","270",""
+"D1","1N4007 SMD","TopLayer","FP-1N4007_SMD-IPC_C","1910.000","1450.000","0","Rectifier, 1Kv, 1A, Do-214Ac Rohs Compliant: Yes"
+"C4","EEUFC2A471","TopLayer","FP-RAD-TH-D_16_0_5-L_40_2-MFG","3247.362","510.000","180","Aluminum Electrolytic Capacitors (Radial Lead Type) AEC-Q200 Qualified 470uF ±20% 100V"
+"C3","150nF","TopLayer","CAPC2013X140X50LL20T25","1910.000","1330.000","0","08053C154KAT2A"
+"C2","08051C153KAT2A","TopLayer","CAPC2013X94X50NL20T25","1755.000","1335.000","0",""
+"C1","EEUFC2A471","TopLayer","FP-RAD-TH-D_16_0_5-L_40_2-MFG","677.362","1700.000","0","Aluminum Electrolytic Capacitors (Radial Lead Type) AEC-Q200 Qualified 470uF ±20% 100V"
