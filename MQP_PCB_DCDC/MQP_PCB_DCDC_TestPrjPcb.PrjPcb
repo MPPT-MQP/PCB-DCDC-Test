@@ -86,23 +86,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document3]
-DocumentPath=Connectors.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=7
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=JCQESHZD
-
-[Document4]
 DocumentPath=PCB_DCDC_Test.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -119,7 +102,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FSVNXUOU
 
-[Document5]
+[Document4]
 DocumentPath=..\..\..\..\Downloads\altium\BM03B_SRSS_TB_LF__SN_\AltiumDesigner\BM03B-SRSS-TBLFSN.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -136,7 +119,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document5]
 DocumentPath=..\..\..\..\Downloads\altium\BM03B_SRSS_TB_LF__SN_\AltiumDesigner\BM03B-SRSS-TBLFSN.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -153,7 +136,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document7]
+[Document6]
 DocumentPath=..\..\..\..\Downloads\ul_TLVM23625RDNR\AltiumDesigner\TLVM23625RDNR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -170,8 +153,42 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HRYMPCRI
 
-[Document8]
+[Document7]
 DocumentPath=..\..\..\..\Downloads\altium\PPTC041LFBN_RC\AltiumDesigner\PPTC041LFBN-RC.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document8]
+DocumentPath=..\..\..\..\..\..\Downloads\altium\PPTC041LFBN_RC\AltiumDesigner\PPTC041LFBN-RC.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document9]
+DocumentPath=..\..\..\..\..\..\Downloads\altium\PPTC041LFBN_RC\AltiumDesigner\PPTC041LFBN-RC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
