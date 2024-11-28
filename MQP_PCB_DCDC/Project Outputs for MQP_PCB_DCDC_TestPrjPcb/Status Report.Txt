@@ -1,10 +1,10 @@
-Output: PCB 3D Print
-Type  : PCB 3D Print
+Output: Bill of Materials
+Type  : BOM
 From  : Variant [[No Variations]] of PCB Document [PCB_DCDC_Test.PcbDoc]
-   Generated File[PCB_DCDC_Test.png]
+   Generated File[Bill of Materials-PCB_DCDC_Test.xlsx]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 10:15:59 PM On 11/26/2024
+Finished Output Generation At 5:55:13 PM On 11/27/2024
